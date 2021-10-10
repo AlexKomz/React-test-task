@@ -1,0 +1,7 @@
+.layout {
+  font-size: var(--font-size);
+  min-height: 100vh;
+  background-color: var(--primary-dark-bg-color);
+  display: flex;
+  flex-direction: column;
+}
